@@ -1,0 +1,10 @@
+The Caesar cipher is a classic encryption technique used to transform 
+plaintext by shifting each letter a fixed number of places down the alphabet. 
+Named after Julius Caesar, who reportedly used it for secure communication, 
+the cipher replaces each letter with the one a specific number of positions 
+later in the alphabet. For example, with a shift of three, 'A' becomes 'D', 
+'B' becomes 'E', and so on, wrapping around to the beginning of the alphabet 
+for letters at the end. Despite its simplicity and ease of breaking with 
+modern computational techniques, the Caesar cipher is significant as an early 
+form of cryptography and serves as a foundational concept in the study of secure 
+communication.
